@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders46 nesne ve sınıf olusturma kapsul kalıtım", "ders46 nesne ve sınıf olusturma kapsul kalıtım\ders46 nesne ve sınıf olusturma kapsul kalıtım.csproj", "{83111C13-ED60-4694-81E8-9ED0C29AC85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83111C13-ED60-4694-81E8-9ED0C29AC85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83111C13-ED60-4694-81E8-9ED0C29AC85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83111C13-ED60-4694-81E8-9ED0C29AC85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83111C13-ED60-4694-81E8-9ED0C29AC85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3285583F-B89D-4023-88FD-5BC6C351FD3C}
+	EndGlobalSection
+EndGlobal
